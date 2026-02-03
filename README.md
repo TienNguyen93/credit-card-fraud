@@ -1,5 +1,7 @@
 # Credit card fraud detection
 
+### [Project findings on Notion](https://tien-nguyen.notion.site/Credit-Card-Fraud-Detection-2b02e6586e5480ec9159d4383c133304?pvs=74)
+
 ## Problem Statement
 Credit card fraud poses a significant global financial threat, with losses reaching tens of billions of dollars annually. According to the United States Sentencing Commission's fiscal year 2023 report, 64,124 fraud cases were reported, affecting an estimated 128 million victims. Three out of five cardholders have experienced unauthorized charges, with 75% of victims reporting multiple instances of fraud. Given the massive volume of transaction data, human analysts can no longer effectively identify fraudulent patterns manually. This project aims to leverage machine learning techniques to create an efficient, automated fraud detection system that can protect financial institutions and their customers from fraudulent activities.
 
